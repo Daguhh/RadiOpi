@@ -1,0 +1,10 @@
+Function	        Reference		      Connection type	
+Radio	            TEA5767		        i2C	3,3V or 5V		
+RTC	              DS1307		        I2C	5V		
+Capteur pression	BMP085		        I2C	3,3V		
+Encodeur rotatif	Ky-040		        GPIO	5V		
+Matrice LED	      MAX7219		        SPI	5V		
+Accelerometre	    ADXL345		        SPI/I2C	3,3V		
+Chargeur LiPo	    PowerBoost 1000		GPIO	NA		
+Extention GPIO	  MCP23017-E/SP		  I2C/SPI	5V		
+Audio DAC	        GY-PCM5102		    I2S	3,3V		
